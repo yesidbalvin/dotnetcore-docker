@@ -1,0 +1,11 @@
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\bin\Release\netcoreapp3.1\myapp.exe
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\bin\Release\netcoreapp3.1\myapp.deps.json
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\bin\Release\netcoreapp3.1\myapp.runtimeconfig.json
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\bin\Release\netcoreapp3.1\myapp.runtimeconfig.dev.json
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\bin\Release\netcoreapp3.1\myapp.dll
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\bin\Release\netcoreapp3.1\myapp.pdb
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\obj\Release\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\obj\Release\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\obj\Release\netcoreapp3.1\myapp.AssemblyInfo.cs
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\obj\Release\netcoreapp3.1\myapp.dll
+D:\YESO\ProofOfConcepts\DotNetCore-Containerized\dotnetcore-container\app\obj\Release\netcoreapp3.1\myapp.pdb
